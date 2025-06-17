@@ -102,6 +102,14 @@ GET /gestao/performance/por-email/brunoalves_s@outlook.com?page=0&size=10
 
 ---
 
+## 📌Teste sem precisar clonar o projeto
+
+```http
+https://brunoalves-gestao-custos.onrender.com/gestao/find/brunoalves_s@outlook.com
+```
+
+---
+
 ## 🧠 Conceitos demonstrados
 
 ### 🔹 `@Cacheable`
